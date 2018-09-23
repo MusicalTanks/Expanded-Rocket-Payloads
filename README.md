@@ -17,3 +17,5 @@ Future goals:
 Compatability with Bob's and Angels mods
 
 launch tracker gui
+
+maybe consolidate some files to make the mod a bit easier to work with
