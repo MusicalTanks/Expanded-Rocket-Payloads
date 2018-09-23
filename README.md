@@ -9,9 +9,11 @@ A mod for Factorio that expands gameplay further into the space age.
 
 0.16.3
 -fixed many spelling errors in the locale file.
+
 -changed around some descriptions to make more sense.
 
 
 Future goals:
 Compatability with Bob's and Angels mods
+
 launch tracker gui
