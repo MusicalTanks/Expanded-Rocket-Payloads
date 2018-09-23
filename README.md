@@ -8,9 +8,7 @@ A mod for Factorio that expands gameplay further into the space age.
 -bugfix: changed name of advanced probe graphic to ensure all letters were lowercase
 
 0.16.3
--fixed many spelling errors in the locale file.
-
--changed around some descriptions to make more sense.
+-fixed many spelling errors in the locale file, changed around some descriptions to make more sense.
 
 
 Future goals:
